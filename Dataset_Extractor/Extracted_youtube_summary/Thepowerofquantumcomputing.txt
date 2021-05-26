@@ -1,0 +1,1 @@
+Google claims Sycamore, a quantum-computing processor, is faster than the world's quickest supercomputer — so fast that it solved a difficult problem in minutes, while Google says the other computer would have taken 10,000 years.The company calls this "quantum supremacy."But, what does this research, and quantum computing in general, mean for the future?
